@@ -2,7 +2,7 @@
 
  * 
  */
-package vk7 lalala;
+package vk7 Tama on uusi haara from lalala;
 
 /**
  * @author asennus
