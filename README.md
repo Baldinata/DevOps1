@@ -2,7 +2,7 @@
 
  * 
  */
-package vk7;
+package vk7 lalala;
 
 /**
  * @author asennus
